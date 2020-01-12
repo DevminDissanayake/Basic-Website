@@ -1,0 +1,24 @@
+body {
+    background: #999999;
+    font-family: arial;
+}
+h1,h2,li {
+    color:grey;
+}
+
+p {
+    background: greenyellow;
+    color: grey;
+    padding: 10px;
+}
+
+.secondary {
+    background: indianred;
+    color: indigo;
+}
+
+#special {
+    background: khaki;
+    color: black;
+}
+
